@@ -1,0 +1,21 @@
+budget_id,fiscal_year,month,department,category,budgeted_amount,budget_notes
+5001,2025,1,Sales,Revenue Target,120000,Q1 Target
+5002,2025,1,Operations,Operating Budget,50000,January Operating Costs
+5003,2025,1,Marketing,Operating Budget,15000,Q1 Marketing Budget
+5004,2025,1,IT,Operating Budget,10000,January IT Budget
+5005,2025,2,Sales,Revenue Target,125000,February Target
+5006,2025,2,Operations,Operating Budget,52000,February Operating Costs
+5007,2025,2,Marketing,Operating Budget,16000,February Marketing
+5008,2025,2,IT,Operating Budget,10500,February IT Budget
+5009,2025,3,Sales,Revenue Target,130000,March Target
+5010,2025,3,Operations,Operating Budget,51000,March Operating Costs
+5011,2025,3,Marketing,Operating Budget,17000,Q1 Adjusted Marketing
+5012,2025,3,IT,Operating Budget,10000,March IT Budget
+5013,2025,4,Sales,Revenue Target,135000,April Target
+5014,2025,4,Operations,Operating Budget,53000,April Operating Costs
+5015,2025,4,Marketing,Operating Budget,18000,Spring Campaign
+5016,2025,4,IT,Operating Budget,11000,April IT Budget
+5017,2025,5,Sales,Revenue Target,140000,May Target
+5018,2025,5,Operations,Operating Budget,54000,May Operating Costs
+5019,2025,5,Marketing,Operating Budget,19000,Mid-Year Campaign
+5020,2025,5,IT,Operating Budget,11500,May IT Budget
