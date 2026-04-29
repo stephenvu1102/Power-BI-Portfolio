@@ -1,0 +1,7 @@
+department_id,department_name,department_head,cost_center,region
+1,Sales,John Smith,CC-001,North
+2,Operations,Sarah Johnson,CC-002,North
+3,Marketing,Michael Chen,CC-003,East
+4,IT,Emily Rodriguez,CC-004,North
+5,Finance,David Brown,CC-005,North
+6,HR,Lisa Martinez,CC-006,North
