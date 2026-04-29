@@ -1,0 +1,21 @@
+transaction_id,date,month,year,department,category,subcategory,amount,region,product_line,notes
+10001,2025-01-15,1,2025,Sales,Revenue,Product Sales,45000.00,North,Enterprise,Q1 Enterprise Sale
+10002,2025-01-18,1,2025,Sales,Revenue,Product Sales,28500.00,South,Mid-Market,Mid-Market Contract
+10003,2025-01-20,1,2025,Operations,Operating Expense,Salaries,35000.00,North,Internal,Monthly Payroll
+10004,2025-01-25,1,2025,Operations,COGS,Manufacturing,18000.00,East,Enterprise,Raw Materials
+10005,2025-02-01,2,2025,Marketing,Operating Expense,Advertising,12000.00,West,SMB,Digital Marketing Campaign
+10006,2025-02-05,2,2025,Sales,Revenue,Product Sales,52000.00,East,Enterprise,Enterprise Annual Contract
+10007,2025-02-10,2,2025,Operations,Operating Expense,Utilities,5500.00,North,Internal,Monthly Utilities
+10008,2025-02-15,2,2025,IT,Operating Expense,Software Licenses,8000.00,North,Internal,Annual Software Licenses
+10009,2025-02-20,2,2025,Sales,Revenue,Product Sales,31500.00,South,Mid-Market,Mid-Market Expansion
+10010,2025-03-01,3,2025,Operations,COGS,Manufacturing,22000.00,West,Enterprise,Production Cost
+10011,2025-03-05,3,2025,Marketing,Operating Expense,Events,15000.00,East,Enterprise,Trade Show Expenses
+10012,2025-03-10,3,2025,Sales,Revenue,Product Sales,48000.00,North,Enterprise,Enterprise Renewal
+10013,2025-03-15,3,2025,Finance,Operating Expense,Salaries,28000.00,North,Internal,Monthly Payroll
+10014,2025-03-20,3,2025,Operations,Operating Expense,Maintenance,6000.00,South,Internal,Equipment Maintenance
+10015,2025-03-25,3,2025,Sales,Revenue,Product Sales,35200.00,West,Mid-Market,New Mid-Market Customer
+10016,2025-04-01,4,2025,Operations,COGS,Manufacturing,20000.00,North,Mid-Market,Production Cost
+10017,2025-04-05,4,2025,Marketing,Operating Expense,Salaries,18000.00,East,Internal,Team Salaries
+10018,2025-04-10,4,2025,IT,Operating Expense,Infrastructure,9500.00,North,Internal,Cloud Infrastructure
+10019,2025-04-15,4,2025,Sales,Revenue,Product Sales,62000.00,South,Enterprise,Large Enterprise Deal
+10020,2025-04-20,4,2025,Operations,Operating Expense,Supplies,4200.00,West,Internal,Office Supplies
